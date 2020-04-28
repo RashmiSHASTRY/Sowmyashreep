@@ -1,0 +1,14 @@
+%message {
+    font-size: 18px;
+    
+  }
+
+.success {
+    @extend %message;
+    background-color: rgb(245, 191, 66);
+}
+
+.warning {
+    @extend %message;
+    background-color: rgb(247, 146, 188);
+}

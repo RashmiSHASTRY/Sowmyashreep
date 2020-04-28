@@ -1,0 +1,16 @@
+
+
+   body {
+      background-image: url('cat.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: auto;
+
+       }
+   #b {
+     color: red;
+     font-size: 20px;
+     }
+    #b:hover {
+        color: black;
+      }
